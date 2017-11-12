@@ -1,6 +1,6 @@
 const postTypes: string = `
 
-    type User {
+    type Post {
         id: ID!
         title: String!
         content: String!
